@@ -1,8 +1,8 @@
 .\git-init-setup.bat
-
+   git config --global core.autocrlf true
 git checkout -b main
 git add .
 git commit -m "加入springcloud讲义"
-git push -u origin vision
+git push -u origin main
 验证分支
 git branch -a
