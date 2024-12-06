@@ -85,11 +85,11 @@ public class WebGisController {
 
 之前使用RestTemplate进行直连的方式调用
 
-![img](https://i-blog.csdnimg.cn/direct/0e27a600f2f04efa936a30f0acbe3d3c.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+![](data/屏幕截图 2024-12-06 100036.png)
 
 使用注册中心，地图服务和地理编码都要注册到注册中心，并且可以订阅注册中心中的所有服务。地图 服务可以通过订阅服务，间接调用地理编码服务
 
-![img](https://i-blog.csdnimg.cn/direct/ee667ce49a4b46109efac1ead63b5979.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+![img](data/屏幕截图 2024-11-28 145238.png)
 
 **主流的注册中心** Nacos Zookeeper Consul Sofa Etcd Eureka
 
@@ -105,7 +105,7 @@ public class WebGisController {
 
 ### 版本依赖
 
-![img](https://i-blog.csdnimg.cn/direct/227e120b6a5f45fcadadc9e7fe3a341c.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)编辑
+![img](data/屏幕截图 2024-11-28 161533.png)
 
 #### **本文使用版本及下载地址：**
 
@@ -650,11 +650,7 @@ private static final String URL="http://provider-service-rest/geocode";
 
 ### 2.高级设置
 
-![img](https://i-blog.csdnimg.cn/direct/b37aa24f254141cab568ca37b6a093e0.png)![点击并拖拽以移动](data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==)
-
-
-
-
+![img](data/屏幕截图 2024-12-02 142016.png)
 
 
 
