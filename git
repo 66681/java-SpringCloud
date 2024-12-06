@@ -1,8 +1,8 @@
 .\git-init-setup.bat
 
-git checkout -b vision
+git checkout -b main
 git add .
-git commit -m "初始化 vision 分支"
+git commit -m "加入springcloud讲义"
 git push -u origin vision
 验证分支
 git branch -a
